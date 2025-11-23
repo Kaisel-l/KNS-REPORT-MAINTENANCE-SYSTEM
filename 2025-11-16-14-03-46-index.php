@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Kolehiyo Ng Subic Maintenance Report Form</title>
+  <title>Kolehiyo Ng Subic Facility Maintenance Record Form</title>
 </head>
 <body>
 
-  <h2>Kolehiyo Ng Subic Maintenance Report Form</h2>
+  <h2>Kolehiyo Ng Subic Facility Maintenance Record Form</h2>
 
   <form action="current.php" method="POST">
     <label>Name:</label>
